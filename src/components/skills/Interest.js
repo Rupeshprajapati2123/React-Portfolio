@@ -13,7 +13,7 @@ class Interest extends Component {
           <div className={classes.Interest}>
             <ScrollAnimation offset="0" animateIn="fadeInLeft" duration='2.4' animateOnce="true" initiallyVisible={true}>
               <div className={classes.web}>
-                <h3>APP Develpoment</h3>
+                <h3>Python Develpoment</h3>
                 <p>I also have knowledge of Python language and learned basics of Machine Learning and Deep Learning.<br /> I have also complted projects under various campus groups. </p>
               </div>
             </ScrollAnimation>
