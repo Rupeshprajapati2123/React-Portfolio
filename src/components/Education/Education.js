@@ -23,8 +23,8 @@ class Education extends Component {
                                                     <FaSchool />     
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >Higher Education  <span>2014-2016</span></h2>
-                                                <p>I have completed my higher education from HKIS with major subjects as Physics,Chemistry & Maths with 85 merit in CBSE board. </p>
+                                                <h2 >Higher Education  <span>2017-2019</span></h2>
+                                                <p>I have completed my higher education from St. Paul's School with major subjects as Physics,Chemistry & Maths with 91 merit in CBSE board. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -34,8 +34,8 @@ class Education extends Component {
                                                 <MdSchool />
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >Undergraduation at SLIET <span>2017-Present</span></h2>
-                                                <p>I'm currently completing my undergraduation in CSE (Computer Science and Engineering) from <a href='http://sliet.ac.in/'>SLIET</a>. </p>
+                                                <h2 >Undergraduation at IITR <span>2020-Present</span></h2>
+                                                <p>I'm currently completing my undergraduation in PSE (Polymer Science and Engineering) from <a href='http://iitr.ac.in/'>IITR</a>. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
@@ -46,7 +46,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 >Internship</h2>
-                                                <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                <p>Looking for MERN internships as a Fresher</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
                                             </article>

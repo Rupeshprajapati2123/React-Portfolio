@@ -17,7 +17,7 @@
   text-decoration: none;
   font-family: 'Aclonica', sans-serif;
   color:#000;
-  font-size:32px;
+  font-size:28px;
 }
 .sidebar > p {
     margin-top: 30px;
@@ -61,11 +61,11 @@
 .links:hover{
  /* color:rgb(121, 189, 252); */
  color:rgb(121, 189, 252);
- text-decoration: underline;
+ text-decoration: none;
 }
 .fas:hover{
   color:rgb(41, 152, 255);
-  text-decoration: underline;
+  text-decoration: none;
  }
  ul{
    list-style: none;
